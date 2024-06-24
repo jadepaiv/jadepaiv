@@ -1,7 +1,6 @@
 # 👋 Hello There!
 
-Olá, eu me chamo Jade! Eu sou uma Bartender em transição de carreira para ser Desenvolvedor Back-end!
-Atualmente, estou me dedicando a aprender as linguagens de programação através de bootcamps e estudos individuais. Tenho grande facilidade de aprendizado e estou confiante de que posso me tornar um desenvolvedor valioso para qualquer equipe e empresa.
+Olá, eu me chamo Jade! Bem-vindo ao meu perfil. Aqui, você pode explorar uma variedade de projetos, contribuições e ideias que mostram minha dedicação e paixão por programação e tecnologia
 
 # 💻 Tech Stack
 
