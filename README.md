@@ -16,7 +16,7 @@ Olá, eu me chamo Jade! Bem-vindo ao meu perfil. Aqui, você pode explorar uma v
 ![PyCharm](https://img.shields.io/badge/PyCharm-A020F0.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Collab](https://img.shields.io/badge/Colab-black?style=for-the-badge&logo=googlecolab&logoColor=A020F0)
 ![Insomnia](https://img.shields.io/badge/Insomnia-A020F0?style=for-the-badge&logo=Insomnia&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=A020F0)
 
 <br/>
 
