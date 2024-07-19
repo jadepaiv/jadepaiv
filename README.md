@@ -22,6 +22,3 @@ Olá, eu me chamo Jade! Bem-vindo ao meu perfil. Aqui, você pode explorar uma v
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12160486059&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=bb36c4&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=12160486059&redirect=true)
-
-
-
