@@ -20,5 +20,5 @@ Olá, eu me chamo Jade! Bem-vindo ao meu perfil. Aqui, você pode explorar uma v
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br/>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12160486059&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=a535bb&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=12160486059&redirect=true)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12160486059&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=a535bb&bar_color_cover=false)(https://spotify-github-profile.kittinanx.com/api/view?uid=12160486059&redirect=true)
 
