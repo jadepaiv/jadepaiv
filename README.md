@@ -5,8 +5,8 @@ Olá, eu me chamo Jade! Bem-vindo ao meu perfil. Aqui, você pode explorar uma v
 # 💻 Tech Stack
 
 
-![Python](https://img.shields.io/badge/Python-A020F0?style=for-the-badge&logo=python&logoColor=blue)
-![Javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue)
+![Javascript](https://img.shields.io/badge/JavaScript-A020F0?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
