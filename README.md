@@ -4,7 +4,7 @@ Olá, eu me chamo Jade! Bem-vindo ao meu perfil. Aqui, você pode explorar uma v
 
 # 💻 Tech Stack
 
-![Html5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=A020F0)
+![Html5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=A020F0)
 ![Css3](https://img.shields.io/badge/CSS3-A020F0?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=A020F0)
 ![NodeJs](https://img.shields.io/badge/Node%20js-A020F0?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -14,7 +14,7 @@ Olá, eu me chamo Jade! Bem-vindo ao meu perfil. Aqui, você pode explorar uma v
 ![GIT](https://img.shields.io/badge/GIT-A020F0?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-A020F0.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Collab](https://img.shields.io/badge/Colab-white?style=for-the-badge&logo=googlecolab&logoColor=A020F0)
+![Collab](https://img.shields.io/badge/Colab-black?style=for-the-badge&logo=googlecolab&logoColor=A020F0)
 ![Insomnia](https://img.shields.io/badge/Insomnia-A020F0?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
