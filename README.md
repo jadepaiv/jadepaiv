@@ -1,4 +1,4 @@
-j# ✨ Hello There! ✨
+# ✨ Hello There! ✨
 
 Olá, eu me chamo Jade! Bem-vindo ao meu perfil. Aqui, você pode explorar uma variedade de projetos, contribuições e ideias que mostram minha dedicação e paixão por programação e tecnologia.
 
