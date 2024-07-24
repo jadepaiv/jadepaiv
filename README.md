@@ -2,6 +2,7 @@
 
 Olá, eu me chamo Jade! Bem-vindo ao meu perfil. Aqui, você pode explorar uma variedade de projetos, contribuições e ideias que mostram minha dedicação e paixão por programação e tecnologia.
 
+
 # 💻 Tech Stack
 
 ![Html5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=A020F0)
@@ -19,6 +20,8 @@ Olá, eu me chamo Jade! Bem-vindo ao meu perfil. Aqui, você pode explorar uma v
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=A020F0)
 
 <br/>
+
+
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12160486059&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=bb36c4&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=12160486059&redirect=true)
