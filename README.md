@@ -1,27 +1,63 @@
-# ✨ Hello There! ✨
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/e0/96/a0/e096a00fb0a55cf0f8bc0ef69db0b59b.gif"  />
+</div>
 
-Olá, eu me chamo Jade! Bem-vindo ao meu perfil. Aqui, você pode explorar uma variedade de projetos, contribuições e ideias que mostram minha dedicação e paixão por programação e tecnologia.
+###
 
+<h1 align="center">✨ Hello There! ✨</h1>
 
-# 💻 Tech Stack
+###
 
-![Html5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=A020F0)
-![Css3](https://img.shields.io/badge/CSS3-A020F0?style=for-the-badge&logo=css3&logoColor=black)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=A020F0)
-![NodeJs](https://img.shields.io/badge/Node%20js-A020F0?style=for-the-badge&logo=nodedotjs&logoColor=black)
-![Javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=A020F0)
-![PowerBi](https://img.shields.io/badge/PowerBI-A020F0?style=for-the-badge&logo=Power%20BI&logoColor=black)
-<br/>
-![Vscode](https://img.shields.io/badge/VSCode-A020F0?style=for-the-badge&logo=visual%20studio%20code&logoColor=black)
-![GIT](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=A020F0)
-![PyCharm](https://img.shields.io/badge/PyCharm-A020F0.svg?&style=for-the-badge&logo=PyCharm&logoColor=black)
-![Collab](https://img.shields.io/badge/Colab-black?style=for-the-badge&logo=googlecolab&logoColor=A020F0)
-![Insomnia](https://img.shields.io/badge/Insomnia-A020F0?style=for-the-badge&logo=Insomnia&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=A020F0)
+<h3 align="left">👩‍💻  About Me</h3>
 
-<br/>
+###
 
+<p align="left">Olá, eu me chamo Jade! Bem-vindo ao meu perfil. Aqui, você pode explorar uma variedade de projetos, contribuições e ideias que mostram minha dedicação e paixão por programação e tecnologia.</p>
 
+###
 
+<h3 align="left">🛠 Language and tools</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12160486059&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=bb36c4&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=12160486059&redirect=true)
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jadepaiv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="119" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jadepaiv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=synthwave&hide_border=false&order=2" height="119" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12160486059&unique={true|1|on|yes})
+</div>
+
+###
