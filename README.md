@@ -49,15 +49,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jadepaiv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false&order=1" height="119" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jadepaiv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=synthwave&hide_border=false&order=2" height="119" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jadepaiv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=synthwave&hide_border=false&order=2" height="190" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12160486059&unique={true|1|on|yes})
 </div>
 
 ###
